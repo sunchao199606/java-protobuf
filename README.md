@@ -1,2 +1,2 @@
 # java-protobuf
-google protibuf
+google protobuf
